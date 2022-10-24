@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "esbuild": "^0.15.12"
+  },
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve"
+  }
+}
